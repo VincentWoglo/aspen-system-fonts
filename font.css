@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "BoldFont";
+  src: url("./fonts/727f52d7d7b3c7af-s.p.woff2")format("woff2");
+  font-display: swap;
+  font-weight: 600;
+  font-style: normal;
+  
+}
+  
+  @font-face {
+  font-family: "NormalFont";
+  src: url("./fonts/4e7f584c54a767d4-s.p.woff2")format("woff2");
+  font-display: swap;
+  font-weight: 600;
+  font-style: normal;
+  
+}
